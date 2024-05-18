@@ -54,6 +54,13 @@ Absolutely! Here's the README.md file based on the provided content:
 - **Add New Tasks:** Add new tasks by typing into the input field and pressing the "Add" button.
 - **Delete Tasks:** Delete tasks by clicking the "Delete" button next to each task.
 - **Dynamic Rendering:** Tasks are dynamically rendered on the page as they are added or deleted.
+  
+[Screencast from 2024-05-18 14-14-50.webm](https://github.com/Akanksha54/TODO-LIST-project-using-React/assets/122151315/f373b0f4-3022-47bc-bff0-6d836c609ab6)
+
+![Screenshot from 2024-05-18 13-57-58](https://github.com/Akanksha54/TODO-LIST-project-using-React/assets/122151315/ac031070-253a-4d59-969f-1ea3937edaa6)
+
+![Screenshot from 2024-05-18 13-59-06](https://github.com/Akanksha54/TODO-LIST-project-using-React/assets/122151315/4584d56d-53a5-4643-bbee-a65afc1f8778)
+
 
 ## 🛠️ Built With
 
