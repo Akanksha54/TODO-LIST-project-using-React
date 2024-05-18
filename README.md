@@ -73,8 +73,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
-```
-
-Feel free to copy and paste this into your README.md file in your project repository. Remember to replace `[Your Name](https://github.com/yourusername)` with your actual name and GitHub profile link.
-
+Made with ❤️ by [Akanksha](https://github.com/Akanksha54)
