@@ -21,16 +21,6 @@ Make sure you have Node.js and npm installed on your machine.
 Clone the repository to your local machine:
 Absolutely! Here's the README.md file based on the provided content:
 
-```markdown
-# 📝 TODO List App 📝
-
-A simple and elegant TODO list application built using React.
-
-[![License](https://img.shields.io/github/license/Akanksha54/TODO-LIST-project-using-React?style=flat-square)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/Akanksha54/TODO-LIST-project-using-React?style=flat-square)](https://github.com/Akanksha54/TODO-LIST-project-using-React/issues)
-[![Forks](https://img.shields.io/github/forks/Akanksha54/TODO-LIST-project-using-React?style=flat-square)](https://github.com/Akanksha54/TODO-LIST-project-using-React/network/members)
-[![Stars](https://img.shields.io/github/stars/Akanksha54/TODO-LIST-project-using-React?style=flat-square)](https://github.com/Akanksha54/TODO-LIST-project-using-React/stargazers)
-
 ## 🚀 Quick Start
 
 1. **Clone the repository:**
